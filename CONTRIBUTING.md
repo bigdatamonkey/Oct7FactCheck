@@ -1,6 +1,6 @@
 # Contributing Guidelines for Fact-Checkers
 
-Thank you for your interest in contributing to the FactCheck Website! Your contributions play a crucial role in ensuring the accuracy and integrity of the fact-checking process. Before submitting your contributions, please take a moment to review the following guidelines:
+Thank you for your interest in contributing to the Oct7FactCheck Website! Your contributions play a crucial role in ensuring the accuracy and integrity of the fact-checking process. Before submitting your contributions, please take a moment to review the following guidelines:
 
 ## Fact-Check Process:
 
@@ -41,10 +41,10 @@ Thank you for your interest in contributing to the FactCheck Website! Your contr
 
 1. **Team Communication:**
    - Collaborate and communicate with other fact-checkers and contributors in a respectful and professional manner.
-   - Use the issue tracker and project boards to coordinate tasks, provide updates, and seek assistance if needed.
+   - Use the issue tracker and project boards to coordinate tasks, provide updates, and seek assistance if needed via Discord server.
 
 2. **Knowledge Sharing:**
-   - Share insights, best practices, and useful resources with fellow fact-checkers to enhance collaboration and learning within the team.
+   - Share insights, best practices, and useful resources with fellow fact-checkers to enhance collaboration and learning within the team via Dicord Server.
 
 3. **Openness to Feedback:**
    - Be open to receiving feedback from other team members and incorporate constructive feedback into your work to improve the quality of fact-checks.
@@ -65,5 +65,5 @@ Thank you for your interest in contributing to the FactCheck Website! Your contr
 
 ## Getting Started:
 
-If you're new to fact-checking or the FactCheck Website repository, don't hesitate to reach out to other fact-checkers or project maintainers for guidance and support. We value your contributions and look forward to working with you to ensure the accuracy and reliability of our fact-checking platform!
+If you're new to fact-checking or the Oct7FactCheck Website repository, don't hesitate to reach out to other fact-checkers or project maintainers for guidance and support. We value your contributions and look forward to working with you to ensure the accuracy and reliability of our fact-checking platform!
 
